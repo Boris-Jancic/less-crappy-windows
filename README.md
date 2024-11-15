@@ -1,17 +1,17 @@
+# Intro
+
 All credits go to M1chael Williams & his initial repository
 - https://github.com/m1chaelwilliams/make-windows-pretty
 His youtube video inspired me to make my own windows debloat & beautify repository.
 Check out his video & his channel linked below:
 - https://www.youtube.com/watch?v=G0_wVLhI-Ds
-
-# Intro
-
+  
 # Debloat
 
 # My Terminal Setup
 
 - [Wezterm](https://wezfurlong.org/wezterm/index.html)
-- [Wezterm Config File](.wezterm.lua)
+- [Wezterm Config File](.wezterm.lua)                  
 
 > The font is a custom Iosevka installation from [here](https://typeof.net/Iosevka/customizer). This is my build plan [here](./private-build-plans.toml).
 
